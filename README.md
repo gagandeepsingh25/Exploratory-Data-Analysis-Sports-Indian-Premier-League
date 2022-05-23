@@ -1,3 +1,3 @@
 # Exploratory-Data-Analysis-Sports-Indian-Premier-League-
 In this part, we did EDA on:
-  1:- Indian Premier League(IPL) - We will find out the most successful teams, players and factors contributing win or loss of a team.
+Indian Premier League(IPL) - We will find out the most successful teams, players and factors contributing win or loss of a team.
